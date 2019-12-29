@@ -23,3 +23,14 @@ $app->get('/', function() use($app) {
 });
 
 $app->run();
+*/
+?>
+<!doctype html>
+<html>
+	<head>
+		<title>HelloWorld</title>
+	</head>
+	<body>
+		Hello World!!
+	</body>
+</html>
