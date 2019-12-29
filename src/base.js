@@ -1,4 +1,4 @@
-
+/*
 	const app = new Vue({
 		methods:
 			el:'#app',
@@ -6,3 +6,4 @@
 				message:'hello'
 			}
 		});
+*/
